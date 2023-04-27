@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: This API lets you search through the LangChain Documentation.
 servers:
-  - url: https://urchin-app-oz2ep.ondigitalocean.app/
+  - url: https://urchin-app-oz2ep.ondigitalocean.app
 paths:
   /query:
     post:
